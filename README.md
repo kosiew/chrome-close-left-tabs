@@ -43,3 +43,7 @@ The icons in `icons/` are drawn by a script, which needs
 ```sh
 python3 scripts/make_icons.py
 ```
+
+## License
+
+[MIT](LICENSE)
