@@ -7,14 +7,20 @@ Pinned tabs are left open, and only tabs in the current window are affected.
 
 ## Install
 
-1. Download or clone this repository.
+1. Download the zip from the
+   [latest release](https://github.com/kosiew/chrome-close-left-tabs/releases/latest)
+   and unzip it.
 2. Open `chrome://extensions` in Chrome.
 3. Turn on **Developer mode** (top right).
-4. Click **Load unpacked** and select this folder.
+4. Click **Load unpacked** and select the unzipped `chrome-close-left-tabs`
+   folder.
 5. Optional: pin the extension from the puzzle-piece menu in the toolbar.
 
-After pulling changes, click the reload button on the extension's card at
-`chrome://extensions`.
+### From source
+
+To track the latest code instead, clone this repository and load its folder
+in step 4. After pulling changes, click the reload button on the extension's
+card at `chrome://extensions`.
 
 ## Usage
 
